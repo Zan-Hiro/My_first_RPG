@@ -334,7 +334,7 @@ function TickFiled() {
     if(m == 10 || m == 11){
       gHP = gMHP;
       //TEXT(TOWN)
-      SetMessage("西の果てにも", "村があります");
+      SetMessage("東の果てにも", "村があります");
     }
   
     if(m == 12){
