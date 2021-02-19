@@ -1,6 +1,6 @@
 # My_first_RPG
 
-I used to this game only HTML / CSS / JavaScript.
+I created this game only HTML / CSS / JavaScript.
 
 If you beat down the BOSS, game is complete.
 
